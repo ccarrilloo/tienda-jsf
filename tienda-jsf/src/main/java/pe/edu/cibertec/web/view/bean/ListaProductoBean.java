@@ -17,9 +17,9 @@ import pe.edu.cibertec.spring.base.service.ProductoServicio;
 public class ListaProductoBean implements Serializable {
 
     /**
-	 * 
+	 
 	 */
-	private static final long serialVersionUID = 1L;
+	private static final long serialVersionUID = 15;
 
 	private transient List<Producto> listaProducto;
 
